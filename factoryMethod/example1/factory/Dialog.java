@@ -1,6 +1,6 @@
-package factoryMethod.factory;
+package factoryMethod.example1.factory;
 
-import factoryMethod.buttons.Button;
+import factoryMethod.example1.buttons.Button;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It

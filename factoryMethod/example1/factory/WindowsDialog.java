@@ -1,7 +1,7 @@
-package factoryMethod.factory;
+package factoryMethod.example1.factory;
 
-import factoryMethod.buttons.Button;
-import factoryMethod.buttons.WindowsButton;
+import factoryMethod.example1.buttons.Button;
+import factoryMethod.example1.buttons.WindowsButton;
 
 /**
  * Windows Dialog will produce Windows buttons.
